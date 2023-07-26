@@ -18,16 +18,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
 ## Proyectos🧪
-**🌮PI Food:**
-Este proyecto es una aplicación web que desarrolle durante mi educacion en Henry Bootcamp. muestra una colección de deliciosas recetas de comidas de todo el mundo. Los usuarios pueden explorar una variedad de platillos y filtrar las recetas según sus preferencias.
-Para este proyecto, en el **Front-end** utilize HTML, CSS, React y JavaScript. En el **Back-end** utilize Node.js, Express. en la **Base de datos** utilize PostgreSQL.
-
-**Características principales:**
-Explorar Recetas: Los usuarios pueden navegar por una amplia selección de recetas organizadas en diferentes categorías.
-Crear Nuevas Recetas: Los usuarios registrados tienen la posibilidad de contribuir a la comunidad añadiendo sus propias recetas de comidas, con detalles, ingredientes y pasos de preparación.
-Filtrados y ordenamientos: Los usuarios pueden filtrar y/o ordenar las recetas por tipo de dieta, abecedario, origen y puntuacion.
-
-**Link al repositorio**: https://github.com/TomasPino5/PI-Food
+**🌮Food:** https://github.com/TomasPino5/PI-Food
 
 ## Contacto📧
 **Correo electrónico:** tomaspino48@gmail.com
