@@ -15,8 +15,6 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 
 • **Control de versiones:** Git.
 
-• **Gestor de paquetes:** NPM.
-
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
 ## Proyectos🧪
