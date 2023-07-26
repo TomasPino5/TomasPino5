@@ -33,6 +33,7 @@ Filtrados y ordenamientos: Los usuarios pueden filtrar y/o ordenar las recetas p
 
 ## Contacto📧
 **Correo electrónico:** tomaspino48@gmail.com
+
 **Linkedin:** https://www.linkedin.com/in/tomas-pino-001161285/
 
 ¡Estoy emocionado por seguir aprendiendo y creciendo en el mundo de la tecnología mientras colaboro en proyectos significativos y desafiantes! Si tienes alguna pregunta o estás interesado en colaborar, no dudes en contactarme. ¡Gracias por visitar mi perfil de GitHub! 😄
