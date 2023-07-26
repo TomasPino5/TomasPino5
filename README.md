@@ -1,12 +1,12 @@
-# Hola! mi nombre es Tomas Pino👨‍💻
+# 👨‍💻Hola! mi nombre es Tomas Pino
 **FullStack Developer**
 
-## ¿Quien soy?🎸
+## 🎸¿Quien soy?
 Soy un apasionado **desarrollador FullStack** con experiencia en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es utilizar mis habilidades y conocimientos para contribuir al desarrollo de proyectos innovadores y desafiantes.
 
 Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por la forma en que la tecnología puede impactar positivamente la vida de las personas y mejorar la eficiencia de los procesos. Mi pasión por la programación me ha llevado a aprender y trabajar con diversas tecnologías y herramientas.
 
-## Mis habilidades🦸‍♂️
+## 🦸‍♂️Mis habilidades
 • **Front-end:** HTML, CSS, JavaScript, React.JS.
 
 • **Desarrollo Back-end:** Node.JS, Express.
