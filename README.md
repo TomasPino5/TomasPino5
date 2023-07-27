@@ -1,3 +1,5 @@
+<img src='https://media.licdn.com/dms/image/D4D16AQFOKnfv1d08cQ/profile-displaybackgroundimage-shrink_350_1400/0/1690077295370?e=1695859200&v=beta&t=9XNjQTI-Y0slY_1JLUSUmOqrVUKJ4ilJ7kNfJOgsm_M' alt='portada'/>
+
 # Hola! mi nombre es Tomas Pino👨‍💻
 **FullStack Developer**
 
