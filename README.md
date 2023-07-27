@@ -1,14 +1,14 @@
 <img src='https://media.licdn.com/dms/image/D4D16AQFOKnfv1d08cQ/profile-displaybackgroundimage-shrink_350_1400/0/1690077295370?e=1695859200&v=beta&t=9XNjQTI-Y0slY_1JLUSUmOqrVUKJ4ilJ7kNfJOgsm_M' alt='portada'/>
 
-# Hola! mi nombre es Tomas Pino👨‍💻
+# Hola! mi nombre es Tomas Pino 👨‍💻
 **FullStack Developer**
 
-## ¿Quien soy?🎸
+## ¿Quien soy? 🎸
 Soy un apasionado **desarrollador FullStack** con experiencia en la creación de aplicaciones web y soluciones tecnológicas. Mi objetivo es utilizar mis habilidades y conocimientos para contribuir al desarrollo de proyectos innovadores y desafiantes.
 
 Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por la forma en que la tecnología puede impactar positivamente la vida de las personas y mejorar la eficiencia de los procesos. Mi pasión por la programación me ha llevado a aprender y trabajar con diversas tecnologías y herramientas.
 
-## Mis habilidades🦸‍♂️
+## Mis habilidades 🦸‍♂️
 • **Front-end:** HTML, CSS, JavaScript, React, Redux.
 
 • **Desarrollo Back-end:** Node.js, Express.
@@ -19,10 +19,10 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
-## Proyectos🧪
+## Proyectos 🧪
 **🌮Food:** https://github.com/TomasPino5/PI-Food
 
-## Contacto📧
+## Contacto 📧
 **Correo electrónico:** tomaspino48@gmail.com
 
 **Linkedin:** https://www.linkedin.com/in/tomas-pino-001161285/
