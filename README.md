@@ -20,7 +20,6 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
 <style>
-  /* Agregar un margen de 5px entre las imágenes */
   p img {
     margin-right: 5px;
   }
