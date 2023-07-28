@@ -19,7 +19,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
-
+<br/>
 <p align="center">
    <img src='https://victorroblesweb.es/wp-content/uploads/2018/04/git.png' alt='git' width="80px" height="80px"/>
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png' alt='html' width="80px" height="80px"/>
