@@ -19,6 +19,17 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
+<p align="center">
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png' alt='html' width="80px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='css' width="80px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='js' width="80px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='react' width="80px" height="80px"/>
+   <img src='https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png' alt='redux' width="80px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='node' width="110px" height="80px"/>
+   <img src='https://kinsta.com/wp-content/uploads/2022/04/express-1.png' alt='express' width="150px" height="80px"/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' alt='postgres' width="80px" height="80px"/>
+</p>
+
 ## Proyectos 🧪
 **🌮Food:** https://github.com/TomasPino5/PI-Food
 
