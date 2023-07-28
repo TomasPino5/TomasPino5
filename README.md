@@ -20,7 +20,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
 <style>
-  p img {
+  p.img {
     margin-right: 5px;
   }
 </style>
