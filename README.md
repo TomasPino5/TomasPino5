@@ -19,22 +19,16 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 
 • **Herramientas y metodologías ágiles:** Scrum, Git Flow.
 
-<style>
-  p.img {
-    margin-right: 5px;
-  }
-</style>
-
 <p align="center">
-   <img src='https://victorroblesweb.es/wp-content/uploads/2018/04/git.png' alt='git' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png' alt='html' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='css' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='js' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='react' width="80px" height="80px"/>
-   <img src='https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png' alt='redux' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='node' width="110px" height="80px"/>
-   <img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png' alt='express' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' alt='postgres' width="80px" height="80px"/>
+   <img src='https://victorroblesweb.es/wp-content/uploads/2018/04/git.png' alt='git' width="80px" height="80px" margin-right: 5px/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png' alt='html' width="80px" height="80px" margin-right: 5px/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='css' width="80px" height="80px" margin-right: 5px/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='js' width="80px" height="80px" margin-right: 5px/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='react' width="80px" height="80px" margin-right: 5px/>
+   <img src='https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png' alt='redux' width="80px" height="80px" margin-right: 5px/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='node' width="110px" height="80px" margin-right: 5px/>
+   <img src='https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png' alt='express' width="80px" height="80px" margin-right: 5px/>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' alt='postgres' width="80px" height="80px" margin-right: 5px/>
 </p>
 
 ## Proyectos 🧪
