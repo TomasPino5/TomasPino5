@@ -33,7 +33,9 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 </p>
 
 ## Proyectos 🧪
+**📱Tecno Store CS:** https://github.com/TomasPino5/Tecno-Store-CS
 **🌮Food:** https://github.com/TomasPino5/PI-Food
+**🦸‍♂️MarvelApp:** https://github.com/TomasPino5/MarvelApp
 
 ## Contacto 📧
 **Correo electrónico:** tomaspino48@gmail.com
