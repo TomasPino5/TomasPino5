@@ -1,4 +1,4 @@
-<img src='https://www.canva.com/design/DAFtBxmfoQw/b79sboAsvXNFOgB_zNWpJg/edit?utm_content=DAFtBxmfoQw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' alt='portada'/>
+<img src='file:///C:/Users/Tomas/Downloads/Banner%20Para%20LinkedIn%20Desarrollador%20De%20Software%20Moderno%20Negro.png' alt='portada'/>
 
 # Hola! mi nombre es Tomas Pino 👨‍💻
 **FullStack Developer**
