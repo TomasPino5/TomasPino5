@@ -18,19 +18,60 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 • **Herramientas:** Git, Git Flow, Slack.
 
 <br/>
-<p align="center">
-   <img src='https://victorroblesweb.es/wp-content/uploads/2018/04/git.png' alt='git' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png' alt='html' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png' alt='css' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' alt='js' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg' alt='ts' width="80px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png' alt='react' width="80px" height="80px"/>
-   <img src='https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png' alt='redux' width="80px" height="80px"/>
-    <img src='https://www.datocms-assets.com/45470/1631026680-logo-react-native.png' alt='reactn' width="120px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png' alt='node' width="110px" height="80px"/>
-   <img src='https://kinsta.com/wp-content/uploads/2022/04/express-1.png' alt='express' width="180px" height="80px"/>
-   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png' alt='postgres' width="80px" height="80px"/>
-</p>
+<div align="center">
+  <table border>
+    <thead>
+      <tr>
+        <th>Languages</th>
+        <th>Frameworks, Platforms & Libraries</th>
+        <th>Hosting/SaaS</th>
+        <th>Serves</th>
+        <th>Databases</th>
+        <th>Desing</th>
+        <th>Other</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,sass,bootstrap,bash" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=netlify,vercel" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=nginx" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+          </a>
+        </td>
+        <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=figma,xd" />
+          </a>
+        </td>
+         <td>
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=docker,git,hibernate,kubernetes,vscode" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ## Proyectos 🧪
 **📱Tecno Store CS:** https://github.com/TomasPino5/Tecno-Store-CS
