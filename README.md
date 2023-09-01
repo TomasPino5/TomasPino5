@@ -11,7 +11,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
 ## Mis habilidades 🦸‍♂️
 • **Front-end:** HTML, CSS, JavaScript, TypeScript, React, Redux, React Native.
 
-• **Desarrollo Back-end:** Node.js, Express.
+• **Back-end:** Node.js, Express.
 
 • **Base de datos:** PostgreSQL.
 
@@ -23,7 +23,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
     <thead>
       <tr>
         <th>Languages</th>
-        <th>Frameworks, Platforms & Libraries</th>
+        <th>Frameworks & Libraries</th>
         <th>Databases</th>
       </tr>
     </thead>
