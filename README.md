@@ -35,12 +35,12 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
       <tr>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python" />
+            <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
           </a>
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,sass,bootstrap,bash" />
+            <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express" />
           </a>
         </td>
         <td>
