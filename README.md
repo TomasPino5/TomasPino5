@@ -24,11 +24,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
       <tr>
         <th>Languages</th>
         <th>Frameworks, Platforms & Libraries</th>
-        <th>Hosting/SaaS</th>
-        <th>Serves</th>
         <th>Databases</th>
-        <th>Desing</th>
-        <th>Other</th>
       </tr>
     </thead>
     <tbody>
@@ -45,27 +41,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=netlify,vercel" />
-          </a>
-        </td>
-        <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=nginx" />
-          </a>
-        </td>
-        <td>
-          <a href="https://skillicons.dev">
             <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-          </a>
-        </td>
-        <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=figma,xd" />
-          </a>
-        </td>
-         <td>
-          <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=docker,git,hibernate,kubernetes,vscode" />
           </a>
         </td>
       </tr>
