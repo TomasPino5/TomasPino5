@@ -41,7 +41,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
         </td>
         <td>
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+            <img src="https://skillicons.dev/icons?i=postgres" />
           </a>
         </td>
       </tr>
