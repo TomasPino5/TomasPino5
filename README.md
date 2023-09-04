@@ -24,7 +24,7 @@ Desde que comencé mi viaje en el mundo del desarrollo, he estado fascinado por 
       <tr>
         <th>Languages</th>
         <th>Frameworks & Libraries</th>
-        <th>DataBase</th>
+        <th>Database</th>
       </tr>
     </thead>
     <tbody>
