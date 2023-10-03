@@ -1,4 +1,4 @@
-<img src='https://document-export.canva.com/63LU0/DAFtET63LU0/5/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20230919%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230919T212928Z&X-Amz-Expires=14571&X-Amz-Signature=50545a11ae913e7d6f7235ac824ec467746becebf29f9b5e6ae39600e368ce2f&X-Amz-SignedHeaders=host&response-expires=Wed%2C%2020%20Sep%202023%2001%3A32%3A19%20GMT' alt='portada'/>
+<img src='https://i.pinimg.com/originals/ce/3d/df/ce3ddf4a659a3b78614e0c96c0980449.png' alt='portada'/>
 
 # Hola! mi nombre es Tomas Pino 👨‍💻
 **FullStack Developer**
