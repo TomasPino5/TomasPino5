@@ -2,14 +2,14 @@
 **👨🏻‍💻CodeFree:** https://github.com/TomasPino5/CodeFree
 
 ## Tecnologias 
-**Lenguajes:**
+**Lenguajes:** <br>
 . HTML/CSS <br>
 . JavaScript <br>
-**Frameworks:**
+**Frameworks:** <br>
 . Node.JS <br>
 . Express <br>
 . Boostrap <br>
-**Herramientas:**
+**Herramientas:** <br>
 . AWS(Lightsail) <br>
 . NGINX <br>
 . BASH/SHELL <br>
